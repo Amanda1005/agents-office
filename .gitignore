@@ -7,3 +7,8 @@ office.agents.local.json
 brain/Agents Office/
 .DS_Store
 *.backup-*
+
+# Local UI backup files
+src/main.backup.js
+src/shell.backup.html
+src/shell.stable.html
